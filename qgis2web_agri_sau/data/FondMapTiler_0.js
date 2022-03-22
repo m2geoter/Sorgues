@@ -1,0 +1,1 @@
+var json_FondMapTiler_0 = {"type":"FeatureCollection","name":"FondMapTiler_0","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":1.0},"geometry":{"type":"Polygon","coordinates":[[[-180.0,85.06],[-180.0,-85.06],[180.0,-85.06],[180.0,85.06],[-180.0,85.06]]]}}]}
